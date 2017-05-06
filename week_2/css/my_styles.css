@@ -155,7 +155,7 @@ html {
 
 .section {
   position: relative;
-  border: 3px solid black;
+  border: 1px solid black;
   padding: 10px;
   margin: 8px 8px;
   background-color: #ddd;
@@ -174,7 +174,7 @@ html {
   right: 0;
   border-style: solid;
   border-color: black;
-  border-width: 0 0 3px 3px;
+  border-width: 0 0 1px 1px;
 }
 
 #chicken {
